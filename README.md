@@ -12,16 +12,26 @@ https://wiki.dfrobot.com/HUSKYLENS_V1.0_SKU_SEN0305_SEN0336#target_28
 
 
 5. Trained the HuskyLens to track objects by selecting the object tracking function.
+![nay](https://github.com/user-attachments/assets/3836f6c9-e2ff-458c-8c04-f97ea85ae1fb)
+![nay2](https://github.com/user-attachments/assets/23549be3-3da9-49f3-bdcd-20789ed44b94)
 
 
-6. Trained the HuskyLens for line tracking by selecting the line tracking function.
+7. Trained the HuskyLens for line tracking by selecting the line tracking function.
+![line](https://github.com/user-attachments/assets/9954ab39-9177-424e-9fce-049cd057c184)
+![line2](https://github.com/user-attachments/assets/f179dcdb-92ab-4dea-8928-ca0084cd431b)
 
 
-7. Trained the HuskyLens to recognize colors by selecting the color recognition function.
+9. Trained the HuskyLens to recognize colors by selecting the color recognition function.
+![color](https://github.com/user-attachments/assets/d835bfd7-c0ab-4f4a-8a55-3f378595e02a)
+![color2](https://github.com/user-attachments/assets/f21d4f88-539d-400b-8201-237eb4013396)
 
-8. Trained the HuskyLens to recognize specific tags by selecting the tag recognition function.
 
-9. Trained the HuskyLens to recognize specific objects by selecting the object recognition function.
+10. Trained the HuskyLens to recognize specific tags by selecting the tag recognition function.
+![tag1](https://github.com/user-attachments/assets/47c4cb57-9da0-4f2a-9e4b-5e562525a696)
+![tag2](https://github.com/user-attachments/assets/242ba9ff-624c-4cd3-aad5-e59a2e1037df)
+
+
+12. Trained the HuskyLens to recognize specific objects by selecting the object recognition function.
 
 10- Connect the HuskyLens to the Arduino.
 
