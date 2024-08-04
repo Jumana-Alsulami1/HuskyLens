@@ -32,6 +32,9 @@ https://wiki.dfrobot.com/HUSKYLENS_V1.0_SKU_SEN0305_SEN0336#target_28
 
 
 12. Trained the HuskyLens to recognize specific objects by selecting the object recognition function.
+![car](https://github.com/user-attachments/assets/200d1f9a-03aa-4693-ba62-48ad505f2b10)
+![car2](https://github.com/user-attachments/assets/0ffab537-f375-4054-9b73-1022344fb52f)
+
 
 10- Connect the HuskyLens to the Arduino.
 
@@ -56,3 +59,8 @@ LED:
 3- The longer leg of the LED with digital pin 7 in the Arduino board.
 
 11- Write the Arduino Code.
+
+Output:
+![LEDface](https://github.com/user-attachments/assets/53b21664-103b-4f50-b327-2009b0ac1108)
+
+
